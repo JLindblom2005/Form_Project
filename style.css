@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(253, 237, 237);
+}
+
+.container{
+    background-color:  rgb(253, 237, 237);
+    margin-top: 20px;
+    border-radius: 17px;
+    width: 70%;
+}
+
+img{
+    border: 1px solid black;
+    border-radius: 360px;
+    width: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+
+input{
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 640px;
+    padding: 5px;
+}
+
+button{
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 640px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+
+.submitCon{
+    margin-top: 250px;
+}
+
